@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Coding Challenge</string>
+    <string name="page_title">Coding Challenge</string>
+    <string name="input">Input</string>
+    <string name="_j">j</string>
+    <string name="_k">k</string>
+    <string name="total">Total</string>
+    <string name="_m">m</string>
+    <string name="_n">n</string>
+    <string name="clear">Clear</string>
+    <string name="random_input">Random input</string>
+    <string name="run_simulations">Run simulations</string>
+    <string name="output">Output</string>
+    <string name="bonus">Bonus</string>
+</resources>
