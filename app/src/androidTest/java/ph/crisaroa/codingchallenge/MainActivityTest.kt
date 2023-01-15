@@ -24,7 +24,16 @@ class MainActivityTest {
 
     @Before
     fun disableAnimations() {
-        val scale = ScaleAnimation(1f, 1f, 1f, 1f, Animation.RELATIVE_TO_SELF, 0.5f, Animation.RELATIVE_TO_SELF, 0.5f)
+        val scale = ScaleAnimation(
+            1f,
+            1f,
+            1f,
+            1f,
+            Animation.RELATIVE_TO_SELF,
+            0.5f,
+            Animation.RELATIVE_TO_SELF,
+            0.5f
+        )
         scale.duration = 0
         val fade = AlphaAnimation(1f, 1f)
         fade.duration = 0
